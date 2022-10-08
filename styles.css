@@ -1,0 +1,22 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+}
+h1, h2{
+    text-align: center;
+}
+.links{
+    font-size: 25px;
+
+}
+ul{
+    padding: 10px;
+    list-style-type:circle;
+    margin: 0 auto;
+    width: 25%;
+}
+
+
+
